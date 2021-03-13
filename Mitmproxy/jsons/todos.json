@@ -1,0 +1,22 @@
+{
+    "resolved": [
+        {
+            "title": "Create iOS app",
+            "resolved": true
+        },
+        {
+            "title": "Create Mitmproxy template",
+            "resolved": true
+        },
+        {
+            "title": "Connect both iOS and Mitmproxy",
+            "resolved": true
+        }
+    ],
+    "unresolved": [
+        {
+            "title": "Write a new article and share with the community",
+            "resolved": false
+        }
+    ]
+}
